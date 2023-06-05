@@ -8,3 +8,8 @@ German exam, speaking part using the Facebook API.<br/>
 **Technologies**: Python
 * 2014, Framework [Imagrium](https://github.com/azoft-dev-team/imagrium) to test Android mobile applications using OCR, code.<br/>
 **Technologies**: Jython, Sikuli, Android utils
+
+## My Photo
+Here is a photo from my last vacation.
+
+![Malaga, 2023](https://i.imgur.com/VUzBIY2.jpeg)
