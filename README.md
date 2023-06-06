@@ -10,6 +10,6 @@ German exam, speaking part using the Facebook API.<br/>
 **Technologies**: Jython, Sikuli, Android utils
 
 ## My Photo
-Here is a photo from my last vacation (Spain).
+Here is a photo from my last vacation.
 
 ![Malaga, 2023](https://i.imgur.com/VUzBIY2.jpeg)
