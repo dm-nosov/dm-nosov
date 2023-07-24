@@ -9,6 +9,7 @@ German exam, speaking part using the Facebook API.<br/>
 * 2014, Framework [Imagrium](https://github.com/azoft-dev-team/imagrium) to test Android mobile applications using OCR, code.<br/>
 **Technologies**: Jython, Sikuli, Android utils
 
+## Tech
 - 🚀 I use daily: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
